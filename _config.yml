@@ -14,12 +14,12 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
+title:       "The Architect Labs"
 keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+description: "A single-page site housing the creations from my laboratory."
+source_link: "https://thearchitectlabs.github.io/"
 favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
+touch_icon:  "img/Logo.png" ## "img/apple-touch-icon.png"
 google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
 
 
@@ -35,4 +35,3 @@ colors:
 
 kramdown:
   auto_ids:  false
-
