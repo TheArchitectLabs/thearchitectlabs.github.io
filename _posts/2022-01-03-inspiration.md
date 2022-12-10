@@ -14,7 +14,9 @@ fa-icon: lightbulb
 
 ### Here are some of my favorite resources:
 
+- <i class="fa-brands fa-swift"></i>**Hacking With Swift:** Paul Hudson [@twostraws](https://twitter.com/twostraws) runs a phenomenal website and is a treasure trove of information for all levels of iOS developers. I highly recommend starting with his **FREE** courses such as [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) or [100 Days of Swift](https://www.hackingwithswift.com/100/). I was so inspired by his knowledge and teaching skills that I signed up for his HWS+ subscription. Keep in mind that HWS+ is a paid subscription but, in my very humble opinion, the value is well worth the investment.
 
+- <i class="fa-brands fa-youtube"></i>**YouTube:** It may sound silly, but some of the best teaching I have found can be found for free on YouTube.
 
 <!--
 ## Setup as user homepage
