@@ -7,12 +7,12 @@ fa-icon: lightbulb
 
 ## Inspiration
 
-#### As I started learning iOS development, I needed help. There are thousands of resources across the world that will provide guidance and learning. Some are free, some are not, some teach by video, some teach by example, some just talk through the concepts.
+#### As I started learning iOS development, <u>I needed help</u>. There are thousands of resources across the world that will provide guidance and learning. Some are free, some are not, some teach by video, some teach by example, some just talk through the concepts.
 
 ### My only advice to new developers...
-**Find the way you like to learn and then find a resource that teaches that way.**
+## **Find the way you like to learn and then find a resource that teaches that way.**
 
-## Here are some of my favorite resources:
+### Here are some of my favorite resources:
 
 
 
