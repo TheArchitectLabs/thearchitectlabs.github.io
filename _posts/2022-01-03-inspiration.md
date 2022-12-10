@@ -5,6 +5,18 @@ color: black
 fa-icon: lightbulb
 ---
 
+## Inspiration
+
+#### As I started learning iOS development, I needed help. There are thousands of resources across the world that will provide guidance and learning. Some are free, some are not, some teach by video, some teach by example, some just talk through the concepts.
+
+### My only advice to new developers...
+**Find the way you like to learn and then find a resource that teaches that way.**
+
+## Here are some of my favorite resources:
+
+
+
+<!--
 ## Setup as user homepage
 
 - Go click **fork** on the [github project page](https://github.com/t413/SinglePaged)
@@ -54,3 +66,4 @@ where you can publish changes, posts, images, and such. It won't alter your code
 Now hop over to [Usage](#usage) to get it running with your own stuff!
 
 **When you publish changes use `git push -u origin gh-pages`**
+-->
