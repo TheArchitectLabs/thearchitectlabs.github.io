@@ -1,8 +1,8 @@
 ---
-title: "setup details"
+title: "inspiration"
 bg: orange
 color: black
-fa-icon: toggle-on
+fa-icon: lightbulb
 ---
 
 ## Setup as user homepage
@@ -54,4 +54,3 @@ where you can publish changes, posts, images, and such. It won't alter your code
 Now hop over to [Usage](#usage) to get it running with your own stuff!
 
 **When you publish changes use `git push -u origin gh-pages`**
-
