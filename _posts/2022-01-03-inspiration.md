@@ -25,7 +25,7 @@ fa-icon: lightbulb
   - [Kavsoft](https://www.youtube.com/@Kavsoft): These videos are unique because there is no voice in the video. Everything is shown with comments typed in but they build some of the best and coolest designs I have seen.
   - [CodeSlicing](https://www.youtube.com/@CodeSlicing): Adam's site hasn't been updated in a while, but his information about animation and drawings are phenomenal. Side note on this is many of his video focus on a tool he created to make SwiftUI more accessible and efficient with drawing.
 - <i class="fa-brands fa-apple"></i> **Apple:** The obvious and most comprehensive site for iOS development. [Apple](https://developer.apple.com/programs/) has done a great job of providing documentation and providing lessons to learn how to develop apps using Swift.
-- <i class="fa-solid fa-desktop"></i> **Udemy:** Udemy has a ton of courses (not just iOS) from a ton of instructors. Each of these courses are **PAID** content. If you are interested in taking these courses, I highly recommend waiting for a sale. They happen quite regularly and can save a developer large amounts of cash. 
+- <i class="fa-solid fa-desktop"></i> **Udemy:** [Udemy](https://www.udemy.com/) has a ton of courses (not just iOS) from a ton of instructors. Each of these courses are **PAID** content. If you are interested in taking these courses, I highly recommend waiting for a sale. They happen quite regularly and can save a developer large amounts of cash. 
 
 
 <!--
