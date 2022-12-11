@@ -15,7 +15,7 @@ fa-icon: lightbulb
 ### Here are some of my favorite resources:
 
 - <i class="fa-brands fa-swift"></i> **Hacking With Swift:** Paul Hudson [@twostraws](https://twitter.com/twostraws) runs a phenomenal website and is a treasure trove of information for all levels of iOS developers. I highly recommend starting with his **FREE** courses such as [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) or [100 Days of Swift](https://www.hackingwithswift.com/100/). I was so inspired by his knowledge and teaching skills that I signed up for his HWS+ subscription. Keep in mind that HWS+ is a paid subscription but, in my very humble opinion, the value is well worth the investment.
-
+-
 - <i class="fa-brands fa-youtube"></i> **YouTube:** It may sound silly, but some of the best teaching I have found can be found for free on YouTube. These are the ones that I religiously follow:
   - [Paul Hudson](https://www.youtube.com/@twostraws): Paul puts out tons of videos with great information. He is a patient teacher that explains everything with a touch of humor (and sometimes his dogs <i class="fa-solid fa-dog"></i> make an appearance!)
   - [Swiftful Thinking](https://www.youtube.com/@SwiftfulThinking): Nick Sarno has a tremendous way of teaching that is very relatable.
@@ -25,7 +25,7 @@ fa-icon: lightbulb
   - [Azam Sharp](https://www.youtube.com/@azamsharp): Mohammad Azam provides great videos that don't always follow the main stream thought pattern on design architecture.
   - [Kavsoft](https://www.youtube.com/@Kavsoft): These videos are unique because there is no voice in the video. Everything is shown with comments typed in but they build some of the best and coolest designs I have seen.
   - [CodeSlicing](https://www.youtube.com/@CodeSlicing): Adam's site hasn't been updated in a while, but his information about animation and drawings are phenomenal. Side note on this is many of his video focus on a tool he created to make SwiftUI more accessible and efficient with drawing.
-
+-
 - <i class="fa-brands fa-apple"></i> **Apple:** The obvious and most comprehensive site for iOS development. [Apple](https://developer.apple.com/programs/) has done a great job of providing documentation and providing lessons to learn how to develop apps using Swift.
 
 
