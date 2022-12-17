@@ -270,7 +270,7 @@
 .highlight {
   color: #f8f8f2;
   table-layout: fixed;
-  white-space: normal;
+  white-space: nowrap;
   width:90%;
 }
 
