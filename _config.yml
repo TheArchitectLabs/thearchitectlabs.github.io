@@ -18,7 +18,7 @@ title:       "The Architect Labs"
 keywords:    "SinglePaged, jekyll, template, github, blog, single page"
 description: "A single-page site housing the creations from my laboratory."
 source_link: "https://thearchitectlabs.github.io/"
-favicon:     "img/favicon.ico"
+favicon:     "img/favicon.png"
 touch_icon:  "img/Logo.png" ## "img/apple-touch-icon.png"
 google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
 
