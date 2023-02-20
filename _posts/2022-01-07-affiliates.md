@@ -1,8 +1,8 @@
 ---
 title: "affiliates"
-bg: green
+bg: blue
 color: white
-fa-icon: download
+fa-icon: handshake
 ---
 
 # Affiliates
