@@ -11,9 +11,9 @@ fa-icon: handshake
 
 # - Logos By Nick -
 
-Nick Saporito is a graphics designer and content creator. He has made some wonderful courses teaching design tools and concepts. I highly recommend his FREE courses on YouTube and his PAID courses on his website. If you are interested in purchasing a course from Nick, please use one of the links below:
+Nick Saporito is a graphics designer and content creator. He has made some wonderful courses teaching design tools and concepts. I highly recommend his FREE courses on YouTube and his PAID courses on his website. If you are interested in purchasing a course from Nick, please use one of the links below: <br>
 
-<center><img src="/img/lbn/bundle-header.png" alt="Logos By Nick Bundle" style="width:512px;height:256px;"></center>
+<center><img src="/img/lbn/bundle-header.png" alt="Logos By Nick Bundle" style="width:512px;height:256px;"></center><br>
 
 - Want to learn Inkscape, click here for Nick's master class:  <a href="https://logosbynick.teachable.com/p/inkscape-master-class?affcode=191027_465255px" target="_blank">Inkscape</a>
 - How about leaning some raster graphics in GIMP: <a href="https://logosbynick.teachable.com/p/gimp-series?affcode=191027_465255px" target="_blank">GIMP</a>
