@@ -9,11 +9,11 @@ fa-icon: handshake
 
 ### Check out some of the affiliate links below. Note that I get paid a small commision if you purchase from these affiliates using my links below.
 
-- Logos By Nick -
+# - Logos By Nick -
 
 Nick Saporito is a graphics designer and content creator. He has made some wonderful courses teaching design tools and concepts. I highly recommend his FREE courses on YouTube and his PAID courses on his website. If you are interested in purchasing a course from Nick, please use one of the links below:
 
-<img src="/img/lbn/bundle-header.png" alt="Logos By Nick Bundle" style="width:512px;height:256px;">
+<center><img src="/img/lbn/bundle-header.png" alt="Logos By Nick Bundle" style="width:512px;height:256px;"></center>
 
 - Want to learn Inkscape, click here for Nick's master class:  <a href="https://logosbynick.teachable.com/p/inkscape-master-class?affcode=191027_465255px" target="_blank">Inkscape</a>
 - How about leaning some raster graphics in GIMP: <a href="https://logosbynick.teachable.com/p/gimp-series?affcode=191027_465255px" target="_blank">GIMP</a>
